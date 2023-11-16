@@ -45,7 +45,7 @@
        "PortfolioName": {
             "Type":"String",
             "Description":"Portfolio Name",
-            "Default":"Service Catalog VPC Reference Architecture"
+            "Default":"CC-Test Service Catalog VPC Reference Architecture"
         },
         "PortfolioDescription": {
             "Type":"String",
